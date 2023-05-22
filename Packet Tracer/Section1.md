@@ -54,27 +54,34 @@ To create a wireless connection between the laptop we need to do a few things, a
 1. Click on the laptop icon. The interface below will appear.
     <img src="Images/Laptop1.png" width="500" height="600" >
 1. Power off the laptop 
+
     <img src="Images/Laptop2.png" width="500" height="600">
-1. Drag old interface out
+2. Drag old interface out
+
     <img src="Images/Laptop3.png" width="500" height="600">
-1. Drag new interface in
+3. Drag new interface in
+
     <img src="Images/Laptop4.png"  width="500" height="600">
-1. Power on the laptop
+4. Power on the laptop
+
     <img src="Images/Laptop1.png" width="500" height="600">
 
 ## Device Configurations
 ### Physical Tab
 This is the tab that we were interacting with **above**, it all allows us to power the devices on or off, and change out the network interface cards (NIC)
+
 <img src="Images/RPhys.png" width="500" height="600"> 
 
 ### Config Tab
 This tab allows us to make basic configuration changes to intermediate devices such as switches and routers without knowing the CLI commands, as this executes the necessary commands for us.
 
 This shows us the commands run to configure the system - so it provides a nice way to learn some of the CLI Commands. **The CLI commands will have their own document**
+
 <img src="Images/RConf.png" width="500" height="600">
 
 ### CLI Tab
 This is a tab that allows us to interface with the device using the CLI, we need knowledged of the CLI commands and Cisco's Internetworking Operating System.
+
 <img src="Images/RCLI.png" width="500" height="600">
 
 ## Attributes  
@@ -90,7 +97,7 @@ This is available to any devices that would have a desktop GUI interface. This a
 ### Services
 Servers have additional functionality over desktops and laptops that can be configured in the services tab. 
 
-<img src="Images/Server.png" width="500" height="600">
+<img src="Images/Server.png">
 
 
 ## Packet Tracer Tutored Activity (PTTA)
