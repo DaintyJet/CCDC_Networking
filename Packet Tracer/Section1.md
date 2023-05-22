@@ -52,6 +52,7 @@ Below is a connection in progress, **take note of the striped line between the l
 
 To create a wireless connection between the laptop we need to do a few things, as by default it has a ethernet interface.
 1. Click on the laptop icon. The interface below will appear.
+    
     <img src="Images/Laptop1.png" width="500" height="600" >
 1. Power off the laptop 
 
