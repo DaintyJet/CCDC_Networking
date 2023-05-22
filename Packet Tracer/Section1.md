@@ -52,45 +52,45 @@ Below is a connection in progress, **take note of the striped line between the l
 
 To create a wireless connection between the laptop we need to do a few things, as by default it has a ethernet interface.
 1. Click on the laptop icon. The interface below will appear.
-    <img src="Images/Laptop1.png">
+    <img src="Images/Laptop1.png" width="500" height="600" >
 1. Power off the laptop 
-    <img src="Images/Laptop2.png">
+    <img src="Images/Laptop2.png" width="500" height="600">
 1. Drag old interface out
-    <img src="Images/Laptop3.png">
+    <img src="Images/Laptop3.png" width="500" height="600">
 1. Drag new interface in
-    <img src="Images/Laptop4.png">
+    <img src="Images/Laptop4.png"  width="500" height="600">
 1. Power on the laptop
-    <img src="Images/Laptop1.png">
+    <img src="Images/Laptop1.png" width="500" height="600">
 
 ## Device Configurations
 ### Physical Tab
 This is the tab that we were interacting with **above**, it all allows us to power the devices on or off, and change out the network interface cards (NIC)
-<img src="Images/RPhys.png"> 
+<img src="Images/RPhys.png" width="500" height="600"> 
 
 ### Config Tab
 This tab allows us to make basic configuration changes to intermediate devices such as switches and routers without knowing the CLI commands, as this executes the necessary commands for us.
 
 This shows us the commands run to configure the system - so it provides a nice way to learn some of the CLI Commands. **The CLI commands will have their own document**
-<img src="Images/RConf.png">
+<img src="Images/RConf.png" width="500" height="600">
 
 ### CLI Tab
 This is a tab that allows us to interface with the device using the CLI, we need knowledged of the CLI commands and Cisco's Internetworking Operating System.
-<img src="Images/RCLI.png">
+<img src="Images/RCLI.png" width="500" height="600">
 
 ## Attributes  
 This contains atributes about the specified device such as cost, power supplies ect. This will not be too useful to us.
 
-<img src="Images/RAttr.png">
+<img src="Images/RAttr.png" width="500" height="600">
 
 ### Desktop View
 This is available to any devices that would have a desktop GUI interface. This allows us to interact with and configure those devices. We can even interact with a simulated terminal!
 
-<img src="Images/DeskTop.png">
+<img src="Images/DeskTop.png" width="500" height="600">
 
 ### Services
 Servers have additional functionality over desktops and laptops that can be configured in the services tab. 
 
-<img src="Images/Server.png">
+<img src="Images/Server.png" width="500" height="600">
 
 
 ## Packet Tracer Tutored Activity (PTTA)
@@ -101,7 +101,7 @@ These are structured, and guided challenges. We get to select the depth and numb
 Right click a device, we can inspect the front or back of the device, this can be used when we are cabling the device. In this case we can connect to specific interfaces or ports. 
 
 
-We can **switch** between the logical and physical mode using the **Shift-L** and **Shift-P** shortcuts in addition to the buttons on the GUI.\
+We can **switch** between the logical and physical mode using the **Shift-L** and **Shift-P** shortcuts in addition to the buttons on the GUI.
 
 In cities there are some buildings that are defined which we can enter.
 
@@ -109,7 +109,7 @@ In cities there are some buildings that are defined which we can enter.
 **Consol Cables** are used for RS232 and other consol (serial?) connections,
 
 ### Activity 
-There are two cities connected with a submarine cable, listed with a ISP and solid Black Line. In each city there is a building defined with some number of devices in them. These devices can be connected with Ethernet (or some equivalent) **Solid Lines** or Wireless **Striped Lines** links.
+There are two cities connected with a submarine cable, listed with a ISP and solid Black Line. In each city there is a building defined with some number of devices in them. These devices can be connected with Ethernet (or some equivalent) **Solid Lines** or Wireless **Striped Lines** links. Once we are able to access the physical display of the Office, we are able to connect devices and modify their configurations.
 
 
 

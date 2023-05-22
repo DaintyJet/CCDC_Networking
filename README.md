@@ -3,6 +3,4 @@ This is a repository containing notes, practice and anything else related to the
 ## Organization
 - [Basic Information](/Packet%20Tracer/Section1.md)
 - [More Basic Information](/Packet%20Tracer/Section2.md)
-- 
-- 
 
